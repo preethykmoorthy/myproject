@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+👉 https://your-app-name.onrender.com
+
+---
+
 # 🚀 Flask Multi-Page Web Application
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge\&logo=python)
@@ -96,11 +101,6 @@ myproject/
 * 🎨 Improve UI with advanced CSS/JS
 * 🔐 Add form validation and backend logic
 * 📊 Integrate database support
-
----
-
-## 📸 Preview
-![App Screenshot](screenshot.png)
 
 ---
 
